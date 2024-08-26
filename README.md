@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Tharun Raman!
+# 👋 Hi, I'm Tharun Raman! ![RGB](https://i.imgur.com/9iMcD7n.gif)
 
 ## 🎓 About Me
 I'm a dedicated student currently pursuing an Integrated MSc in Computer Science with a specialization in Artificial Intelligence and Machine Learning. My journey in these fields has sparked a deep passion for technology, particularly in AI, ML, and deep learning. I'm always eager to explore, innovate, and contribute to transformative projects.
+
+![Coder GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -37,22 +39,28 @@ I'm a dedicated student currently pursuing an Integrated MSc in Computer Science
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## 🌱 Currently Learning
+![Learning GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 I'm continually expanding my knowledge in AI and ML, with a focus on deep learning frameworks, natural language processing, and computer vision.
 
 ## 🚀 Projects
 I'm working on a variety of projects that leverage AI and ML to solve real-world problems. You can check out my repositories to see what I've been up to!
+
+![Project GIF](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
 
 ## 💬 Let's Connect
 I'm always open to discussing new ideas, collaborating on projects, or simply chatting about technology. Feel free to reach out to me via:
 
 - **LinkedIn**: [Tharun Raman](https://www.linkedin.com/in/tharunraman?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - **Email**: [tharunraman10@gmail.com](mailto:tharunraman10@gmail.com)
+- **Portfolio**: [Portfolio ↗️](https://yourportfolio.com)
 
 ## 📈 GitHub Stats
 ![Tharun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharun977&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharun977&layout=compact&theme=radical)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=tharun977&theme=radical)
+![GitHub Followers](https://img.shields.io/github/followers/tharun977?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/tharun977?label=Stars&style=social)
 
 ---
 
-Thank you for visiting my profile! Let's build something amazing together!
+Thank you for visiting my profile! Let's build something amazing together! ![RGB](https://i.imgur.com/9iMcD7n.gif)
