@@ -9,7 +9,7 @@
 <p align="center"><a href="https://myportfoliositeee.netlify.app/">Portfolio↗️</a></p>
 
 <div align=center>
-    [![wakatime](https:/https://wakatime.com/@a156005c-b729-43c3-b7c0-f84c87797b13.svg?style=for-the-badge)](https://wakatime.com/@018b7c34-66c0-414f-bed4-3cc0802eb59d)
+    [![wakatime](https://wakatime.com/@a156005c-b729-43c3-b7c0-f84c87797b13.svg?style=for-the-badge)](https://wakatime.com/@a156005c-b729-43c3-b7c0-f84c87797b13)
 </div>
 
 ![GitHub followers](https://img.shields.io/github/followers/tharun977?style=for-the-badge&logo=github) 
