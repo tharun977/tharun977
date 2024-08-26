@@ -51,7 +51,7 @@ I'm always open to discussing new ideas, collaborating on projects, or simply ch
 ## 📈 GitHub Stats
 ![Tharun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharun977&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?tharun977&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?tharun977-username&layout=compact&theme=radical)
 
 ---
 
