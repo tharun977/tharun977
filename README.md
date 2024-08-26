@@ -22,7 +22,7 @@
  
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
 
-![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://myportfoliositeee.netlify.app/)
+![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20as%20a-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/WebDeveloper%20Intern-%231877F2?style=for-the-badge&logoColor=white)](https://myportfoliositeee.netlify.app/)
 
 ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
