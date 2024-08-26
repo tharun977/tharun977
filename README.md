@@ -69,7 +69,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
-<img src="https://github.com/tharun977/tharun977/blob/output/github-snake-dark.svg" alt="GitHub Snake">
+<img src="https://raw.githubusercontent.com/tharun977/tharun977/main/github-snake-dark.svg" alt="GitHub Snake">
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 
 <h2 align="left"> 💻 Workspace:</h2><br/>
