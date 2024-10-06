@@ -22,7 +22,7 @@
  
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
 
-![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20as%20a-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/WebDeveloper%20Intern-%231877F2?style=for-the-badge&logoColor=white)](https://myportfoliositeee.netlify.app/)
+![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20as%20a-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Web%20Developer%20Intern-%231877F2?style=for-the-badge&logoColor=white)](https://myportfoliositeee.netlify.app/)
 
 ![](https://img.shields.io/badge/🌱%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Web%20Development-%23563D7C?style=for-the-badge)
 
 ![](https://img.shields.io/badge/📫%20Reach%20out%20to%20me-%23323330?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/tharunraman@gmail.com-%23ED8B00?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/tharunraman10@gmail.com-%23ED8B00?style=for-the-badge&logoColor=white)
 
 ![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)[![](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1mKdCFkK3DRA2WBzYKmNAZnLYJ7wR0PSP/view?usp=drivesdk)
 
