@@ -68,6 +68,26 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
+
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Azure Machine Learning](https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4.svg?style=for-the-badge&logo=azureml&logoColor=white) 
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-FF4500.svg?style=for-the-badge&logo=hacktoberfest&logoColor=white) 
+![GitLab](https://img.shields.io/badge/GitLab-330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoft-onedrive&logoColor=white) 
+
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white) 
+
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white) 
+![K-means Clustering](https://img.shields.io/badge/K--means%20Clustering-FF6F00.svg?style=for-the-badge&logo=ai&logoColor=white) 
+![Prolog](https://img.shields.io/badge/Prolog-5C2D91.svg?style=for-the-badge&logo=prolog&logoColor=white) 
+
+
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 <img src="https://github.com/tharun977/tharun977/blob/main/github-snake-dark.svg" alt="GitHub Snake">
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
