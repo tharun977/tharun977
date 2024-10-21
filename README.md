@@ -14,7 +14,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/tharun977?style=for-the-badge&logo=github) 
 ![GitHub User's stars](https://img.shields.io/github/stars/tharun977?style=for-the-badge&logo=github) 
 <img src="https://komarev.com/ghpvc/?username=tharun977&style=for-the-badge&logo=github" alt="">
-[![An image of @tharun977's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharun977)](https://holopin.io/@tharun977)
+[![An image of @tharun977's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharun977)]
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
