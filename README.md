@@ -144,32 +144,29 @@
 
 ## Here are some 🦜Parrots😂:
 
+
+
+## Here are some 🤖 Dancing Bots & 🚀 **Tech Vibes**: 
+
 <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30">
-<div>
+    <img src="https://media.giphy.com/media/26FPO5v2f95G0Fh1u/giphy.gif" width="30" height="30"> 
+    <img src="https://media.giphy.com/media/3o7abGgDaLv24K2wIi/giphy.gif" width="30" height="30"> 
+    <img src="https://media.giphy.com/media/xT1XGkQ6dDrK6w3hiA/giphy.gif" width="36" height="30">
+    <img src="https://media.giphy.com/media/2K7k2X43wFZ7qU8Ne8/giphy.gif" width="30" height="30">
+    <img src="https://media.giphy.com/media/3o6Zt3hROoYFq9g9rG/giphy.gif" width="30" height="30">
+    <img src="https://media.giphy.com/media/3o6Ztc1gYtM4vcq8I0/giphy.gif" width="30" height="30">
+    <img src="https://media.giphy.com/media/3o6gE6n7tPTBYcg9Y0/giphy.gif" width="30" height="30">
+    <img src="https://media.giphy.com/media/xT39iVyOcAY8bG7H5K/giphy.gif" width="30" height="30">
+    <img src="https://media.giphy.com/media/f8M4yCSs6g7Cg/giphy.gif" width="30" height="30">
+    <img src="https://media.giphy.com/media/3o72F1eyqB5aeVtW7q/giphy.gif" width="30" height="30">
+    <img src="https://media.giphy.com/media/3o7qDPkfhcMvnOTXiI/giphy.gif" width="30" height="30">
+    <img src="https://media.giphy.com/media/l0HuxA8wEr2Ws2Rvy/giphy.gif" width="30" height="30">
+    <img src="https://media.giphy.com/media/xT0GqCOTZMj9dmtOdi/giphy.gif" width="30" height="30">
+    <img src="https://media.giphy.com/media/l41YqAaqc6APkbU9W/giphy.gif" width="30" height="30">
+    <img src="https://media.giphy.com/media/2aPqg43g6Xa8Q/giphy.gif" width="30" height="30">
+    <img src="https://media.giphy.com/media/xT39iVyOcAY8bG7H5K/giphy.gif" width="30" height="30">
+    <img src="https://media.giphy.com/media/xT1XGkQ6dDrK6w3hiA/giphy.gif" width="30" height="30">
+</div>
 
 <p align="center">
     <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
