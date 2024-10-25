@@ -21,7 +21,7 @@
 
 <!-----About Me --------->
  
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
+## <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="30px" align="center"></picture><b> About Me</b>
 
 ![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20as%20a-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Web%20Developer%20Intern-%231877F2?style=for-the-badge&logoColor=white)](https://myportfoliositeee.netlify.app/)
 
