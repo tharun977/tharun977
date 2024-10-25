@@ -46,7 +46,7 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">          
 </p>
 
-## <img src="https://media.giphy.com/media/1yrQqoN0aybivNztIG/giphy.gif" width=50px>Socials
+## <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width=50px>Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tharun_10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharunraman)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/podaaaaaaaa) 
