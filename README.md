@@ -142,32 +142,34 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-Here’s an alternate fun section with different, playful emojis and unique icons for your GitHub README. This idea uses a mix of dancing emojis, animated robots, and iconic references to tech culture to keep it interesting!
-
----
-
-## Here are some 🤖 **Dancing Bots** & 🚀 **Tech Vibes**: 
+## Here are some 🦜Parrots😂:
 
 <div>
-    <img src="https://media.giphy.com/media/3o6UB5RrlQuMfZp82Y/giphy.gif" width="30" height="30"> 
-    <img src="https://media.giphy.com/media/8IVbvQzADZn6c/giphy.gif" width="30" height="30"> 
-    <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="36" height="30">
-    <img src="https://media.giphy.com/media/j0e6g3hj2MSpw5VBjY/giphy.gif" width="30" height="30">
-    <img src="https://media.giphy.com/media/3o7ZeTmU77UlPyeR2w/giphy.gif" width="30" height="30">
-    <img src="https://media.giphy.com/media/l2JhNLf7gydxMHVvG/giphy.gif" width="30" height="30">
-    <img src="https://media.giphy.com/media/h7VR6paN0w7JK/giphy.gif" width="30" height="30">
-    <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="30" height="30">
-    <img src="https://media.giphy.com/media/8Fw3V2DZ19hlK/giphy.gif" width="30" height="30">
-    <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="36" height="30">
-    <img src="https://media.giphy.com/media/3oz8xEWHLRbp3K7PHi/giphy.gif" width="30" height="30">
-    <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="30" height="30">
-    <img src="https://media.giphy.com/media/3ohhwBNfRVrGicKcd6/giphy.gif" width="30" height="30">
-    <img src="https://media.giphy.com/media/3o6wrvdHFbwBrUFenu/giphy.gif" width="30" height="30">
-    <img src="https://media.giphy.com/media/3o7TKI3dQvUe0JH59C/giphy.gif" width="30" height="30">
-    <img src="https://media.giphy.com/media/l1J9qemh1La8b0Rag/giphy.gif" width="30" height="30">
-    <img src="https://media.giphy.com/media/3ohhwBNfRVrGicKcd6/giphy.gif" width="30" height="30">
-</div>
-
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30">
+</div> give me an alternate section to this like a fun thing in a readme file of my github profile
 <p align="center">
     <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
