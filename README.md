@@ -97,8 +97,4 @@
   <a href="https://codepen.io/podaaaaaaaa" target="_blank"><img src="https://img.shields.io/badge/Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
 </p>
 
----
 
-<div align="center">
-  <h3>Thank you for visiting! ❤️</h3>
-</div>
