@@ -88,15 +88,6 @@
 ---
 
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharun977&theme=midnight-purple&show_icons=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun977&theme=midnight-purple" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharun977&theme=midnight-purple&layout=compact" alt="Top Languages">
-</div>
-
----
 
 ## Socials
 
