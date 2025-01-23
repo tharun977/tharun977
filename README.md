@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Tharun Raman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Computer+Science+Student;Open-Source+Enthusiast" alt="Headline">
   <p><strong>Web Developer | Computer Science Student</strong></p>
   <p><a href="https://myportfoliositeee.netlify.app/" target="_blank">🌐 Portfolio</a> | <a href="https://drive.google.com/file/d/1mKdCFkK3DRA2WBzYKmNAZnLYJ7wR0PSP/view?usp=drivesdk" target="_blank">📄 Resume</a></p>
   <img src="https://komarev.com/ghpvc/?username=tharun977&style=for-the-badge&logo=github" alt="profile views">
