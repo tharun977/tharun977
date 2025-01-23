@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Tharun Raman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <p><strong>Web Developer | Open Source Enthusiast | Computer Science Student</strong></p>
+  <p><strong>Web Developer | Computer Science Student</strong></p>
   <p><a href="https://myportfoliositeee.netlify.app/" target="_blank">🌐 Portfolio</a> | <a href="https://drive.google.com/file/d/1mKdCFkK3DRA2WBzYKmNAZnLYJ7wR0PSP/view?usp=drivesdk" target="_blank">📄 Resume</a></p>
   <img src="https://komarev.com/ghpvc/?username=tharun977&style=for-the-badge&logo=github" alt="profile views">
   <img src="https://img.shields.io/github/followers/tharun977?style=for-the-badge&logo=github" alt="followers">
