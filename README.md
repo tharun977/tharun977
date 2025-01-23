@@ -46,18 +46,50 @@
 
 ## Projects
 
-### Web3 [dApps & Tools]
-- **[HandleCheck](https://github.com/tharun977/HandleCheck)**: Telegram mini app for social verifications (**React.js**, **Reclaim SDK**).
-- **[Sournal](https://github.com/tharun977/SOURNAL)**: Journal dApp built on Solana (**Next.js**, **Rust**, **Anchor**).
-- **[StakeStep](https://github.com/tharun977/StakeStep)**: Habit-building dApp (**Next.js**, **Solidity**).
-- **[Vault Manager](https://github.com/tharun977/vault-manager)**: SPL Token vault (**Rust**, **Anchor**, **Solana**).
 
-### Web2 [Apps & Tools]
-- **[KrishiSahay](https://github.com/tharun977/KrishiSahay)**: WhatsApp bot for plant disease detection (**Python**, **TensorFlow**).
-- **[Opencourse Management](https://github.com/tharun977/opencourse-webapp)**: Webapp for course allotment (**React.js**, **Django**).
-- **[Turtle](https://github.com/tharun977/turtle)**: Chrome extension for advanced bookmarking (**React.js**, **Axios**).
+
+### 1. Social Buzz Data Analysis
+- **Description**: Conducted analysis on content categories to identify the top 5 most popular categories on Social Buzz.
+- **Tech Stack**: Python (Pandas, NumPy), Data Visualization Tools.
+- **Highlights**: Processed unstructured data, cleaned datasets, and generated actionable insights.
 
 ---
+
+### 2. Rumi Press Django Web Application
+- **Description**: Built a Django-based application to manage book distribution processes for an EdTech company.
+- **Tech Stack**: Django, Python, SQLite, HTML, CSS.
+- **Highlights**: Developed CRUD views for book management, imported data from spreadsheets, and created expense report views.
+
+---
+
+### 3. Lost and Found React Application
+- **Description**: Designed a React front end for a lost and found application with responsive and dynamic UI components.
+- **Tech Stack**: React, CSS, JavaScript.
+- **Highlights**: Ensured full responsiveness, integrated hover effects, and included an image gallery visible on the homepage.
+
+---
+
+### 4. Spotify-Inspired Music Player UI
+- **Description**: Revamped a music player UI inspired by Spotify, adding a dynamic animated background and cooler features.
+- **Tech Stack**: HTML, CSS, JavaScript.
+- **Highlights**: Enhanced user experience with animations and interactive elements.
+
+---
+
+### 5. Retail Consumer Segmentation Using K-Means Clustering
+- **Description**: Performed K-means clustering analysis on retail consumer data for Prodigy Infotech.
+- **Tech Stack**: Python (scikit-learn, Matplotlib, Pandas).
+- **Highlights**: Identified consumer segments based on purchasing behavior.
+
+---
+
+### 6. Linear Regression Model
+- **Description**: Implemented a linear regression model to predict outcomes using a dataset from the Prodigy ML internship.
+- **Tech Stack**: Python (scikit-learn, NumPy, Pandas).
+- **Highlights**: Cleaned and processed the dataset to achieve high accuracy.
+
+---
+
 
 ## GitHub Stats
 
