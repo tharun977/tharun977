@@ -12,9 +12,7 @@
 
 - 🔭 I’m currently working as a **Web Developer Intern**.
 - 🌱 I’m currently learning **React.js**, **Next.js**, and **Solidity**.
-- 💬 Ask me about **Web Development**, **Open Source**, or **Blockchain Development**.
 - 📫 How to reach me: **[tharunraman10@gmail.com](mailto:tharunraman10@gmail.com)**.
-- ⚡ Fun fact: My first line of code was `Hello, World!`.
 
 ---
 
@@ -26,7 +24,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Web Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
