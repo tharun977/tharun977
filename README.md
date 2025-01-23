@@ -4,6 +4,8 @@
   <p><a href="https://myportfoliositeee.netlify.app/" target="_blank">🌐 Portfolio</a> | <a href="https://drive.google.com/file/d/1mKdCFkK3DRA2WBzYKmNAZnLYJ7wR0PSP/view?usp=drivesdk" target="_blank">📄 Resume</a></p>
   <img src="https://komarev.com/ghpvc/?username=tharun977&style=for-the-badge&logo=github" alt="profile views">
   <img src="https://img.shields.io/github/followers/tharun977?style=for-the-badge&logo=github" alt="followers">
+  ![GitHub User's stars](https://img.shields.io/github/stars/tharun977?style=for-the-badge&logo=github) 
+
 </div>
 
 ---
