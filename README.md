@@ -88,6 +88,20 @@
 
 ---
 
+### 7. 🚗 SPOT - Smart Parking Organization Tool
+- **Description**: A Django-based smart parking management system that enables efficient parking space tracking, automated payment processing, and a modern UI.
+- **Tech Stack**: Django, Python, HTML, CSS (Glassmorphism UI), SQLite/PostgreSQL.
+- **Features**:
+  - Vehicle check-in and check-out tracking.
+  - Parking duration calculation.
+  - Payment management system.
+  - Admin authorization for parking entries.
+  - Future enhancements: QR code integration, role-based access, and online payments.
+- **Repo**: [GitHub Repository](https://github.com/tharun977/spot-main)  
+- **Demo**: Yet to deploy.
+
+---
+
 
 
 ## Socials
