@@ -19,7 +19,7 @@ class Life(Creativity):
         self.current_job_title = "Student seeking internships"
 
     def current_projects(self):
-        self.currently_learning = "Computer Vision , Deep Learning , React.js 📚"
+        self.currently_learning = "Solidity, Vue.js 📚"
         self.currently_working_on = "AI/ML Projects 🌱"
         self.excited_for = "Internet of Things 🌎"
 
