@@ -120,6 +120,3 @@ if '__repo__' == '__helpful__':
   <a href="https://instagram.com/tharun_10" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://linkedin.com/in/tharunraman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-```
-
-This version has your details, projects, and skills while keeping the aesthetic elements intact. Let me know if you need any further modifications! 🚀
