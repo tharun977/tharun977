@@ -96,7 +96,7 @@ if '__repo__' == '__helpful__':
 
 - 🚗 **[SPOT - Smart Parking Organization Tool](https://github.com/tharun977/spot-main)** – A Django-based parking management system with automated payments.  
 - 📊 **[Social Buzz Data Analysis](https://github.com/tharun977/social-buzz-analysis)** – Data analysis to find the most popular content categories.  
-- 🔍 **[Lost and Found React App](https://github.com/tharun977/lost-and-found-app)** – A responsive React-based lost and found portal.  
+- 🔍 **[Lost and Found React App](https://github.com/tharun977/Lost-And-Found)** – A responsive React-based lost and found portal.  
 - 🛍️ **[Retail Consumer Segmentation](https://github.com/tharun977/retail-segmentation)** – K-Means clustering for customer segmentation.  
 - 📈 **[Linear Regression Model](https://github.com/tharun977/linear-regression)** – Predictive analysis using scikit-learn.  
 - 🌐 **[Portfolio Website](https://github.com/tharun977/portfolio-website)** – A modern, sleek portfolio showcasing projects.  
