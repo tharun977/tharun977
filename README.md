@@ -45,7 +45,7 @@ if '__repo__' == '__helpful__':
     fork_it()
 ```
 
-- 📫 How to reach me: **[tharunraman10@gmail.com](mailto:tharunraman10@gmail.com)**.
+📫 **Contact me at**: [tharunraman10@gmail.com](mailto:tharunraman10@gmail.com)
 
 ---
 
@@ -90,32 +90,16 @@ if '__repo__' == '__helpful__':
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
 ## Projects
 
-### 1. 🚗 SPOT - Smart Parking Organization Tool
-- **Description**: A Django-based smart parking management system that enables efficient parking space tracking, automated payment processing, and a modern UI.
-- **Tech Stack**: Django, Python, HTML, CSS (Glassmorphism UI), SQLite/PostgreSQL.
-- **Repo**: [GitHub Repository](https://github.com/tharun977/spot-main)
-
-### 2. Social Buzz Data Analysis
-- **Description**: Analyzed Social Buzz content categories to determine the most popular ones.
-- **Tech Stack**: Python (Pandas, NumPy, Data Visualization Tools).
-
-### 3. Lost and Found React Application
-- **Description**: Designed a React front end for a lost and found application with a fully responsive UI.
-- **Tech Stack**: React, CSS, JavaScript.
-
-### 4. Retail Consumer Segmentation Using K-Means Clustering
-- **Description**: Performed K-means clustering analysis on retail consumer data for Prodigy Infotech.
-- **Tech Stack**: Python (scikit-learn, Matplotlib, Pandas).
-
-### 5. Linear Regression Model
-- **Description**: Implemented a linear regression model to predict outcomes using a dataset.
-- **Tech Stack**: Python (scikit-learn, NumPy, Pandas).
-
-### 6. Portfolio Website
-- **Description**: A sleek, modern personal portfolio showcasing projects and achievements.
-- **Tech Stack**: HTML, CSS, JavaScript.
+- 🚗 **[SPOT - Smart Parking Organization Tool](https://github.com/tharun977/spot-main)** – A Django-based parking management system with automated payments.  
+- 📊 **[Social Buzz Data Analysis](https://github.com/tharun977/social-buzz-analysis)** – Data analysis to find the most popular content categories.  
+- 🔍 **[Lost and Found React App](https://github.com/tharun977/lost-and-found-app)** – A responsive React-based lost and found portal.  
+- 🛍️ **[Retail Consumer Segmentation](https://github.com/tharun977/retail-segmentation)** – K-Means clustering for customer segmentation.  
+- 📈 **[Linear Regression Model](https://github.com/tharun977/linear-regression)** – Predictive analysis using scikit-learn.  
+- 🌐 **[Portfolio Website](https://github.com/tharun977/portfolio-website)** – A modern, sleek portfolio showcasing projects.  
 
 ---
 
