@@ -48,7 +48,7 @@ if '__repo__' == '__helpful__':
     fork_it()
 ```
 
-- 🔭 I’m currently working as a **Machine Learning Intern**.
+- 🔭 I’m currently seeking full stack and software **Internships**.
 - 🌱 I’m currently learning **Deep Learning**, **Computer Vision**, and **React.js**.
 - 📫 How to reach me: **[tharunraman10@gmail.com](mailto:tharunraman10@gmail.com)**.
 
