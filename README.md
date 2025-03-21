@@ -83,8 +83,6 @@ if '__repo__' == '__helpful__':
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
 ## Projects
 
 ### 1. 🚗 SPOT - Smart Parking Organization Tool
