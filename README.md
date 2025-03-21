@@ -1,6 +1,3 @@
-Got it! Here's the customized version of your README with your details:  
-
-```md
 <div align="center">
   <h1>Hi, I'm Tharun Raman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Computer+Science+Student;Machine+Learning+Enthusiast" alt="Headline">
