@@ -92,6 +92,8 @@ if '__repo__' == '__helpful__':
 - **Tech Stack**: Django, Python, HTML, CSS (Glassmorphism UI), SQLite/PostgreSQL.
 - **Repo**: [GitHub Repository](https://github.com/tharun977/spot-main)
 
+  ---
+
 ### 2. Social Buzz Data Analysis
 - **Description**: Analyzed Social Buzz content categories to determine the most popular ones.
 - **Tech Stack**: Python (Pandas, NumPy, Data Visualization Tools).
