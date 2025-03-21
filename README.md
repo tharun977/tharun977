@@ -16,12 +16,10 @@ from life import Creativity
 
 class Life(Creativity):
     def __init__(self):
-        self.founder = "DCinfotec"
-        self.current_job_title = "Machine Learning Intern"
-        self.current_company = "Prodigy Infotech, Remote" 
+        self.current_job_title = "Student seeking internships"
 
     def current_projects(self):
-        self.currently_learning = "Computer Vision & Deep Learning 📚"
+        self.currently_learning = "Computer Vision , Deep Learning , React.js 📚"
         self.currently_working_on = "AI/ML Projects 🌱"
         self.excited_for = "Internet of Things 🌎"
 
@@ -31,7 +29,6 @@ class Life(Creativity):
             "Lost and Found React App",
             "Social Buzz Data Analysis",
             "Retail Consumer Segmentation",
-            "Linear Regression Model",
             "Portfolio Website"
         ]
 
@@ -48,8 +45,6 @@ if '__repo__' == '__helpful__':
     fork_it()
 ```
 
-- 🔭 I’m currently seeking full stack and software **Internships**.
-- 🌱 I’m currently learning **Deep Learning**, **Computer Vision**, and **React.js**.
 - 📫 How to reach me: **[tharunraman10@gmail.com](mailto:tharunraman10@gmail.com)**.
 
 ---
