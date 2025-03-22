@@ -49,35 +49,6 @@ if '__repo__' == '__helpful__':
 
 ---
 
-## 🏆 GitHub Stats & Activity
-
-<div align="center">
-  <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="60" height="60" />
-    GITHUB STATS
-  </h1>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=tharun977&show_icons=true&theme=radical" alt="GitHub Stats">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun977&theme=radical" alt="GitHub Streak">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/tharun977/tharun977/blob/main/github-snake-dark.svg" alt="GitHub Contribution Snake">
-    </td>
-  </tr>
-</table>
-
-
----
-
-
 <div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="60" height="60" /> TOOLS</h1>
  </div>
@@ -118,6 +89,32 @@ if '__repo__' == '__helpful__':
 </p>
 
 ---
+
+## 🏆 GitHub Stats & Activity
+
+<div align="center">
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="60" height="60" />
+    GITHUB STATS
+  </h1>
+</div>
+
+<div>
+ <table align="center">
+  <tr>
+    <td align="center">
+      <img alt="Contribution Section" src="https://github.com/tharun977/github-stats/blob/master/generated/overview.svg"  >
+    </td>
+    <td align="center">
+       <img src ="https://github.com/tharun977/github-stats/blob/master/generated/languages.svg">
+    </td>
+  </tr>
+</table>     
+</div>
+
+
+---
+
 
 ## Projects  
 
