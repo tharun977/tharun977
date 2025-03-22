@@ -67,11 +67,11 @@ if '__repo__' == '__helpful__':
 
  
 ### Programming Languages:
-<img alt="Python" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="C" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/-C++-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
 ### Web Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
