@@ -143,9 +143,13 @@ A cybersecurity tool for detecting and mitigating security threats.
   </h1>
 </div>
 
-<div align="center">
-  <img alt="Contributions" height="80%" width="80%" src="https://github.com/tharun977/tharun977/blob/main/profile-3d-contrib/profile-night-view.svg">
-</div>
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tharun977/tharun977/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharun977/tharun977/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/tharun977/tharun977/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 
 ---
 
