@@ -144,8 +144,9 @@ A cybersecurity tool for detecting and mitigating security threats.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun977&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharun977&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
+
 
 ---
 
