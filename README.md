@@ -106,7 +106,7 @@ if '__repo__' == '__helpful__':
       <img src="https://github-readme-stats.vercel.app/api?username=tharun977&show_icons=true&theme=radical" alt="GitHub Stats">
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun977&theme=radical" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun977&theme=light" alt="GitHub Streak">
     </td>
   </tr>
   <tr>
