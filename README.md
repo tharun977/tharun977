@@ -61,9 +61,10 @@ if '__repo__' == '__helpful__':
 
 ---
 
-<div align="center">
-<h1>🔥 SKILLS</h1>
-</div>
+
+<div align="center" >
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="60" height="60" /> TOOLS</h1>
+ </div>
 
 ### 🖥️ **Programming Languages**  
 <p>
