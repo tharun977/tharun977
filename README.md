@@ -51,13 +51,29 @@ if '__repo__' == '__helpful__':
 
 ## 🏆 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharun977&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun977&theme=radical" alt="GitHub Streak">
-  <br>
-  <img src="https://github.com/tharun977/tharun977/blob/main/github-snake-dark.svg" alt="GitHub Contribution Snake">
-</p>
+<div align="center">
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="60" height="60" />
+    GITHUB STATS
+  </h1>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=tharun977&show_icons=true&theme=radical" alt="GitHub Stats">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun977&theme=radical" alt="GitHub Streak">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/tharun977/tharun977/blob/main/github-snake-dark.svg" alt="GitHub Contribution Snake">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
