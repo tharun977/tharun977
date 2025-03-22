@@ -61,15 +61,6 @@ if '__repo__' == '__helpful__':
 
 ---
 
-<div align="center" >
-<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="60" height="60" /> SKILLS</h1>
- </div>
-
- 
-Here's your **Skills Section** formatted like the reference README, with centered headings and a **flat-square** badge style for a cleaner, minimal look.  
-
----
-
 <div align="center">
 <h1>🔥 SKILLS</h1>
 </div>
