@@ -129,8 +129,9 @@ Here’s a **creative and visually appealing** way to showcase your projects usi
 ## 🚀 **Projects**  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="60" height="60" />
-</div>  
+  <img src="https://github.com/twitter/twemoji/blob/master/assets/72x72/1f680.png?raw=true" width="60" height="60" />
+</div>
+  
 
 | 🚀 Project | 🔗 Repository | 📝 Description |
 |------------|-------------|---------------|
