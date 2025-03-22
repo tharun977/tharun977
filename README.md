@@ -144,7 +144,7 @@ A cybersecurity tool for detecting and mitigating security threats.
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/tharun977" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun977&theme=dark" alt="GitHub Streak Stats" />
 </div>
 
 ---
