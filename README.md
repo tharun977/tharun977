@@ -16,7 +16,7 @@ from life import Creativity
 
 class Life(Creativity):
     def __init__(self):
-        self.current_job_title = "Student seeking internships"
+        self.current_job_title = "Student , seeking internships"
 
     def current_projects(self):
         self.currently_learning = "Solidity, Vue.js 📚"
