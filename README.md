@@ -103,14 +103,20 @@ if '__repo__' == '__helpful__':
  <table align="center">
   <tr>
     <td align="center">
-      <img alt="Contribution Section" src="https://github.com/tharun977/github-stats/blob/master/generated/overview.svg"  >
+      <img src="https://github-readme-stats.vercel.app/api?username=tharun977&show_icons=true&theme=radical" alt="GitHub Stats">
     </td>
     <td align="center">
-       <img src ="https://github.com/tharun977/github-stats/blob/master/generated/languages.svg">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun977&theme=radical" alt="GitHub Streak">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/tharun977/tharun977/blob/main/github-snake-dark.svg" alt="GitHub Contribution Snake">
     </td>
   </tr>
 </table>     
 </div>
+
 
 
 ---
