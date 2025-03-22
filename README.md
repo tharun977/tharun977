@@ -20,7 +20,7 @@ class Life(Creativity):
 
     def current_projects(self):
         self.currently_learning = "Solidity, Vue.js 📚"
-        self.currently_working_on = "SPOT-Parking Management WebApp Project🌱"
+        self.currently_working_on = "SPOT - Parking Management WebApp Project🌱"
         self.excited_for = "Internet of Things 🌎"
 
     def open_source_projects(self):
