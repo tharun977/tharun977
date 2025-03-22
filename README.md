@@ -135,6 +135,20 @@ A cybersecurity tool for detecting and mitigating security threats.
 
 ---
 
+
+<div align="center">
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="60" height="60" />
+    CONTRIBUTIONS
+  </h1>
+</div>
+
+<div align="center">
+  <img alt="Contributions" height="80%" width="80%" src="https://github.com/tharun977/tharun977/blob/main/profile-3d-contrib/profile-night-view.svg">
+</div>
+
+---
+
 ## Connect with Me
 
 <p align="center">
