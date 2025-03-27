@@ -111,10 +111,10 @@ if '__repo__' == '__helpful__':
  <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=tharun977&show_icons=true&theme=light" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=tharun977&show_icons=true&theme=apprentice&hide_border=True" alt="GitHub Stats">
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun977&theme=light" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun977&theme=apprentice&hide_border=True" alt="GitHub Streak">
     </td>
   </tr>
 </table>
