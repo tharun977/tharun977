@@ -129,11 +129,6 @@ if '__repo__' == '__helpful__':
 
 ---
 
-
-Here’s a **creative and visually appealing** way to showcase your projects using icons, badges, and a neat table format. 🚀  
-
----
-
 ## 🚀 **Projects**  
 
 <div align="center">
