@@ -134,7 +134,7 @@ if '__repo__' == '__helpful__':
  <table align="center">
   <tr>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=tharun977&theme=apprentice&hide_border=true" alt="GitHub Stats">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=tharun977&theme=transperant&hide_border=true" alt="GitHub Stats">
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharun977&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Streak">
