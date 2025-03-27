@@ -118,7 +118,9 @@ if '__repo__' == '__helpful__':
     </td>
   </tr>
   <tr>
-   ![snake gif](https://github.com/tharun977/tharun977/blob/output/github-contribution-grid-snake.gif)
+    <td>
+      <img src= "https://github.com/tharun977/tharun977/blob/output/github-contribution-grid-snake.gif">
+    </td>
   </tr>
 </table>     
 </div>
