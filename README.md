@@ -70,7 +70,7 @@ if '__repo__' == '__helpful__':
 | **🔍 Lost and Found React Application** | [🔗 GitHub](https://github.com/tharun977/Lost-And-Found) | A responsive React-based lost and found platform. |
 | **🛡️ PlaGuard** | [🔗 GitHub](https://github.com/tharun977/PlaGuard) | A cybersecurity tool for detecting and mitigating security threats. |
 
----
+
 
 ### **🌟 Featured Projects**  
 🎯 **SPOT** → Smart parking made easy with automation!  
