@@ -158,7 +158,7 @@ if '__repo__' == '__helpful__':
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharun977&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github.com/tharun977/tharun977/blob/main/profile-3d-contrib/profile-night-view.svg" />
 </div>
 
 
