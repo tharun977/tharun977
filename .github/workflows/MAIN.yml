@@ -1,27 +1,26 @@
 name: Generate Pacman Game
 
 on:
-  schedule:
-    - cron: "0 */24 * * *"  # Run every 24 hours
-  workflow_dispatch:
   push:
     branches:
       - main
+  schedule:
+    - cron: "0 */24 * * *"  # Runs every 24 hours
+  workflow_dispatch:  # Allows manual runs
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: true  # Ensures Git credentials persist
+          persist-credentials: true  # Allows pushing changes
 
-      - name: Generate pacman-contribution-graph.svg
+      - name: Generate Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -33,9 +32,9 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git checkout -b output || git checkout output
+          git checkout output || git checkout -b output
           git add pacman-contribution-graph.svg
-          git commit -m "Updated Pac-Man contribution graph" || echo "No changes to commit"
+          git commit -m "Updated Pacman Contribution Graph" || echo "No changes to commit"
           git push origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
