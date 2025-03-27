@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # Ensures push action works correctly
+          persist-credentials: false
 
       - name: Generate the snake
         uses: Platane/snk@master
@@ -24,8 +24,16 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      - name: Save generated files state
+        run: echo "snake_generated=true" >> $GITHUB_STATE
+
       - name: Show Git status
         run: git status
+
+      - name: Set output for file paths
+        run: |
+          echo "GIF_PATH=dist/github-contribution-grid-snake.gif" >> $GITHUB_OUTPUT
+          echo "SVG_PATH=dist/github-contribution-grid-snake.svg" >> $GITHUB_OUTPUT
 
       - name: Push changes
         run: |
