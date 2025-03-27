@@ -57,6 +57,29 @@ if '__repo__' == '__helpful__':
 
 ---
 
+## 🚀 **Projects**  
+
+<div align="center">
+  <img src="https://github.com/twitter/twemoji/blob/master/assets/72x72/1f680.png?raw=true" width="60" height="60" />
+</div>
+  
+
+| 🚀 Project | 🔗 Repository | 📝 Description |
+|------------|-------------|---------------|
+| **🚗 SPOT - Smart Parking Organization Tool** | [🔗 GitHub](https://github.com/tharun977/spot-main) | A Django-based smart parking system with automated payments and modern UI. |
+| **🔍 Lost and Found React Application** | [🔗 GitHub](https://github.com/tharun977/Lost-And-Found) | A responsive React-based lost and found platform. |
+| **🛡️ PlaGuard** | [🔗 GitHub](https://github.com/tharun977/PlaGuard) | A cybersecurity tool for detecting and mitigating security threats. |
+
+---
+
+### **🌟 Featured Projects**  
+🎯 **SPOT** → Smart parking made easy with automation!  
+🛡️ **PlaGuard** → Defend your applications from security threats!  
+🔎 **Lost and Found** → Never lose your belongings again!  
+
+---
+
+
 <div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="60" height="60" /> SKILLS</h1>
  </div>
@@ -126,29 +149,6 @@ if '__repo__' == '__helpful__':
 
 
 ---
-
-## 🚀 **Projects**  
-
-<div align="center">
-  <img src="https://github.com/twitter/twemoji/blob/master/assets/72x72/1f680.png?raw=true" width="60" height="60" />
-</div>
-  
-
-| 🚀 Project | 🔗 Repository | 📝 Description |
-|------------|-------------|---------------|
-| **🚗 SPOT - Smart Parking Organization Tool** | [🔗 GitHub](https://github.com/tharun977/spot-main) | A Django-based smart parking system with automated payments and modern UI. |
-| **🔍 Lost and Found React Application** | [🔗 GitHub](https://github.com/tharun977/Lost-And-Found) | A responsive React-based lost and found platform. |
-| **🛡️ PlaGuard** | [🔗 GitHub](https://github.com/tharun977/PlaGuard) | A cybersecurity tool for detecting and mitigating security threats. |
-
----
-
-### **🌟 Featured Projects**  
-🎯 **SPOT** → Smart parking made easy with automation!  
-🛡️ **PlaGuard** → Defend your applications from security threats!  
-🔎 **Lost and Found** → Never lose your belongings again!  
-
----
-
 
 <div align="center">
   <h1>
