@@ -117,7 +117,9 @@ if '__repo__' == '__helpful__':
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun977&theme=light" alt="GitHub Streak">
     </td>
   </tr>
+  <tr>
       <img src= "https://github.com/tharun977/tharun977/blob/output/github-snake-dark.svg">
+  </tr>
 </table>     
 </div>
 
