@@ -28,11 +28,12 @@ jobs:
         run: git status
 
       - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output  # Ensure this matches where the generated files are stored
-          force: true
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git add dist/*
+          git commit -m "Update snake contribution graph" || echo "No changes to commit"
+          git push origin output --force
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
