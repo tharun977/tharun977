@@ -119,7 +119,7 @@ if '__repo__' == '__helpful__':
   </tr>
   <tr>
     <td>
-      <img src= "https://github.com/tharun977/tharun977/blob/output/github-snake-dark.svg">
+      <img src= "https://github.com/tharun977/tharun977/blob/output/github-snake-dark.svg" width="600px">
     </td>
   </tr>
 </table>     
