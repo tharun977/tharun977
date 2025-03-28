@@ -101,6 +101,7 @@ if '__repo__' == '__helpful__':
   <img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Three.js" src="https://img.shields.io/badge/three.js-6DA55F?style=flat-square&logo=three.js&logoColor=white" />
 </p>
 
 ### 🤖 **AI/ML & Data Science**  
