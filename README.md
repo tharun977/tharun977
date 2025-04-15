@@ -64,21 +64,37 @@ if '__repo__' == '__helpful__':
 </div>
   
 
+Got it! Here's how you can structure your GitHub profile `README.md` to include a **dedicated section for Cybersecurity & OSINT tools**, separate from your general featured projects.
+
+---
+
+### 🚀 Projects Overview
+
 | 🚀 Project | 🔗 Repository | 📝 Description |
 |------------|-------------|---------------|
 | **🚗 SPOT - Smart Parking Organization Tool** | [🔗 GitHub](https://github.com/tharun977/spot-main) | A Django-based smart parking system with automated payments and modern UI. |
 | **🔍 Lost and Found React Application** | [🔗 GitHub](https://github.com/tharun977/Lost-And-Found) | A responsive React-based lost and found platform. |
-| **🛡️ PlaGuard** | [🔗 GitHub](https://github.com/tharun977/PlaGuard) | A cybersecurity tool for detecting and mitigating security threats. |
 
 ---
 
-### **🌟 Featured Projects**  
+### 🌟 Featured Projects
+
 🎯 **SPOT** → Smart parking made easy with automation!  
 🛡️ **PlaGuard** → Defend your applications from security threats!  
-🔎 **Lost and Found** → Never lose your belongings again!  
+🔎 **Lost and Found** → Never lose your belongings again!
 
 ---
 
+### 🕵️ Cybersecurity & OSINT Tools
+
+| 🔐 Tool | 🔗 Repository | 🧠 Description |
+|--------|---------------|----------------|
+| **🦅 ShadowHawk** | [🔗 GitHub](https://github.com/tharun977/ShadowHawk-OSINT-) | A powerful and anonymous username reconnaissance tool for OSINT investigations. |
+| **🛡️ PlaGuard** | [🔗 GitHub](https://github.com/tharun977/PlaGuard) | Detect and mitigate web-based security threats in real-time. |
+
+> 📌 ShadowHawk focuses on username footprint discovery across major platforms with proxy/Tor support and zero dependencies!
+
+---
 
 <div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="60" height="60" /> SKILLS</h1>
