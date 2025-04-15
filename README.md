@@ -100,16 +100,6 @@ Absolutely! Here's your updated `README.md` layout including **`My3dportfolio`**
 
 ---
 
-Let me know if you want:
-- Shields.io badges
-- Live project links
-- 3D previews of the portfolio
-- Auto-generated GitHub stats
-- Or markdown collapsible sections for a cleaner look!
-
-Always happy to make it ✨ aesthetic + functional.
----
-
 <div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="60" height="60" /> SKILLS</h1>
  </div>
