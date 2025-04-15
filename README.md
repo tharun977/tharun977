@@ -64,10 +64,6 @@ if '__repo__' == '__helpful__':
 </div>
   
 
-Got it! Here's how you can structure your GitHub profile `README.md` to include a **dedicated section for Cybersecurity & OSINT tools**, separate from your general featured projects.
-
----
-
 ### 🚀 Projects Overview
 
 | 🚀 Project | 🔗 Repository | 📝 Description |
