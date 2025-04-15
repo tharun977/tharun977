@@ -66,18 +66,26 @@ if '__repo__' == '__helpful__':
 
 ### 🚀 Projects Overview
 
+Absolutely! Here's your updated `README.md` layout including **`My3dportfolio`** and a clearly separated **Cybersecurity & OSINT Tools** section:
+
+---
+
+### 🚀 Projects Overview
+
 | 🚀 Project | 🔗 Repository | 📝 Description |
 |------------|-------------|---------------|
 | **🚗 SPOT - Smart Parking Organization Tool** | [🔗 GitHub](https://github.com/tharun977/spot-main) | A Django-based smart parking system with automated payments and modern UI. |
 | **🔍 Lost and Found React Application** | [🔗 GitHub](https://github.com/tharun977/Lost-And-Found) | A responsive React-based lost and found platform. |
+| **🎨 My 3D Portfolio** | [🔗 GitHub](https://github.com/tharun977/My3dportfolio) | A visually engaging 3D developer portfolio built with Three.js and React. |
 
 ---
 
 ### 🌟 Featured Projects
 
 🎯 **SPOT** → Smart parking made easy with automation!  
-🛡️ **PlaGuard** → Defend your applications from security threats!  
-🔎 **Lost and Found** → Never lose your belongings again!
+🔎 **Lost and Found** → Never lose your belongings again!  
+🧑‍🎨 **My3dportfolio** → Make your dev portfolio stand out in 3D!  
+🛡️ **PlaGuard** → Defend your applications from security threats!
 
 ---
 
@@ -88,8 +96,18 @@ if '__repo__' == '__helpful__':
 | **🦅 ShadowHawk** | [🔗 GitHub](https://github.com/tharun977/ShadowHawk-OSINT-) | A powerful and anonymous username reconnaissance tool for OSINT investigations. |
 | **🛡️ PlaGuard** | [🔗 GitHub](https://github.com/tharun977/PlaGuard) | Detect and mitigate web-based security threats in real-time. |
 
-> 📌 ShadowHawk focuses on username footprint discovery across major platforms with proxy/Tor support and zero dependencies!
+> 🧩 **ShadowHawk** is a modular, dependency-free OSINT tool designed for fast username checks across platforms, proxy/Tor support, export options, and stealth.
 
+---
+
+Let me know if you want:
+- Shields.io badges
+- Live project links
+- 3D previews of the portfolio
+- Auto-generated GitHub stats
+- Or markdown collapsible sections for a cleaner look!
+
+Always happy to make it ✨ aesthetic + functional.
 ---
 
 <div align="center" >
