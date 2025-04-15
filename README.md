@@ -66,12 +66,6 @@ if '__repo__' == '__helpful__':
 
 ### 🚀 Projects Overview
 
-Absolutely! Here's your updated `README.md` layout including **`My3dportfolio`** and a clearly separated **Cybersecurity & OSINT Tools** section:
-
----
-
-### 🚀 Projects Overview
-
 | 🚀 Project | 🔗 Repository | 📝 Description |
 |------------|-------------|---------------|
 | **🚗 SPOT - Smart Parking Organization Tool** | [🔗 GitHub](https://github.com/tharun977/spot-main) | A Django-based smart parking system with automated payments and modern UI. |
