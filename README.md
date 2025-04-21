@@ -71,6 +71,7 @@ if '__repo__' == '__helpful__':
 | **🚗 SPOT - Smart Parking Organization Tool** | [🔗 GitHub](https://github.com/tharun977/spot-main) | A Django-based smart parking system with automated payments and modern UI. |
 | **🔍 Lost and Found React Application** | [🔗 GitHub](https://github.com/tharun977/Lost-And-Found) | A responsive React-based lost and found platform. |
 | **🎨 My 3D Portfolio** | [🔗 GitHub](https://github.com/tharun977/My3dportfolio) | A visually engaging 3D developer portfolio built with Three.js and React. |
+| **🍽️ Snapdish AI** | [🔗 GitHub](https://github.com/tharun977/SnapDishAi) | An AI-powered food recognition app that suggests recipes and nutritional facts from photos. |
 
 ---
 
@@ -79,7 +80,7 @@ if '__repo__' == '__helpful__':
 🎯 **SPOT** → Smart parking made easy with automation!  
 🔎 **Lost and Found** → Never lose your belongings again!  
 🧑‍🎨 **My3dportfolio** → Make your dev portfolio stand out in 3D!  
-🛡️ **PlaGuard** → Defend your applications from security threats!
+🧠 **Snapdish AI** → Just snap a dish and get instant recipes with AI!
 
 ---
 
