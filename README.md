@@ -76,6 +76,7 @@ Here’s an updated table with the HackForge AI project added:
 | **🍽️ Snapdish AI** | [🔗 GitHub](https://github.com/tharun977/SnapDishAi) | An AI-powered food recognition app that suggests recipes and nutritional facts from photos. |
 | **💻 HackForge AI** | [🔗 GitHub](https://github.com/tharun977/hackforgeai) | An AI-powered platform for generating codebases from plain English project descriptions with real-time collaboration features.
 
+> 🕸️ **Web2 Projects & Tools**
 
 ### 🌟 Featured Projects
 
