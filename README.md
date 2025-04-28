@@ -57,7 +57,7 @@ if '__repo__' == '__helpful__':
 
 ---
 
-## 🚀 **Projects**  
+## 🚀 **Projectss**  
 
 <div align="center">
   <img src="https://github.com/twitter/twemoji/blob/master/assets/72x72/1f680.png?raw=true" width="60" height="60" />
