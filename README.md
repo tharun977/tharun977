@@ -83,7 +83,8 @@ Here’s an updated table with the HackForge AI project added:
 🔎 **Lost and Found** → Never lose your belongings again!  
 🧑‍🎨 **My3dportfolio** → Make your dev portfolio stand out in 3D!  
 🧠 **Snapdish AI** → Just snap a dish and get instant recipes with AI!
-💻 **HackforgeAi** A tool that turns plain English ideas into full-stack project scaffolds using AI!
+
+💻 **HackforgeAi** → A tool that turns plain English ideas into full-stack project scaffolds using AI!
 
 ---
 
