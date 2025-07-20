@@ -75,6 +75,7 @@ Here’s an updated table with the HackForge AI project added:
 | **🎨 My 3D Portfolio** | [🔗 GitHub](https://github.com/tharun977/My3dportfolio) | A visually engaging 3D developer portfolio built with Three.js and React. |
 | **🍽️ Snapdish AI** | [🔗 GitHub](https://github.com/tharun977/SnapDishAi) | An AI-powered food recognition app that suggests recipes and nutritional facts from photos. |
 | **💻 HackForge AI** | [🔗 GitHub](https://github.com/tharun977/hackforgeai) | An AI-powered platform for generating codebases from plain English project descriptions with real-time collaboration features.
+| **👨‍💻 DevForge** | [🔗 GitHub](https://github.com/tharun977/devforge) | Helps you to generate customised personal portfolios by anaylsing your github profile.
 
 > 🕸️ **Web2 Projects & Tools**
 
@@ -85,6 +86,7 @@ Here’s an updated table with the HackForge AI project added:
 - 🧑‍🎨 **My3dportfolio** → Make your dev portfolio stand out in 3D!  
 - 🧠 **Snapdish AI** → Just snap a dish and get instant recipes with AI!  
 - ⚡ **HackForge AI** → Instantly turn your ideas into full codebases with real-time collaboration and AI power!
+- ✨ **DevForge** → Generate your personal portfolio without any hassle!
 ---
 
 ### 🕵️ Cybersecurity & OSINT Tools
